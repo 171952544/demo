@@ -1,0 +1,102 @@
+c:\users\c\documents\visual studio 2015\Projects\实验三\实验三\bin\ApplicationInsights.config
+c:\users\c\documents\visual studio 2015\Projects\实验三\实验三\bin\roslyn\csc.exe
+c:\users\c\documents\visual studio 2015\Projects\实验三\实验三\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\c\documents\visual studio 2015\Projects\实验三\实验三\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\c\documents\visual studio 2015\Projects\实验三\实验三\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\c\documents\visual studio 2015\Projects\实验三\实验三\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\c\documents\visual studio 2015\Projects\实验三\实验三\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\c\documents\visual studio 2015\Projects\实验三\实验三\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\c\documents\visual studio 2015\Projects\实验三\实验三\bin\roslyn\System.Collections.Immutable.dll
+c:\users\c\documents\visual studio 2015\Projects\实验三\实验三\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\c\documents\visual studio 2015\Projects\实验三\实验三\bin\roslyn\vbc.exe
+c:\users\c\documents\visual studio 2015\Projects\实验三\实验三\bin\roslyn\VBCSCompiler.exe
+c:\users\c\documents\visual studio 2015\Projects\实验三\实验三\bin\roslyn\VBCSCompiler.exe.config
+c:\users\c\documents\visual studio 2015\Projects\实验三\实验三\bin\实验三.dll.config
+c:\users\c\documents\visual studio 2015\Projects\实验三\实验三\bin\实验三.dll
+c:\users\c\documents\visual studio 2015\Projects\实验三\实验三\bin\实验三.pdb
+c:\users\c\documents\visual studio 2015\Projects\实验三\实验三\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\c\documents\visual studio 2015\Projects\实验三\实验三\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\c\documents\visual studio 2015\Projects\实验三\实验三\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\c\documents\visual studio 2015\Projects\实验三\实验三\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\c\documents\visual studio 2015\Projects\实验三\实验三\bin\Microsoft.AI.Web.dll
+c:\users\c\documents\visual studio 2015\Projects\实验三\实验三\bin\Microsoft.AI.WindowsServer.dll
+c:\users\c\documents\visual studio 2015\Projects\实验三\实验三\bin\Microsoft.ApplicationInsights.dll
+c:\users\c\documents\visual studio 2015\Projects\实验三\实验三\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\c\documents\visual studio 2015\Projects\实验三\实验三\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\c\documents\visual studio 2015\Projects\实验三\实验三\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\c\documents\visual studio 2015\Projects\实验三\实验三\bin\Microsoft.AI.Web.xml
+c:\users\c\documents\visual studio 2015\Projects\实验三\实验三\bin\Microsoft.AI.WindowsServer.xml
+c:\users\c\documents\visual studio 2015\Projects\实验三\实验三\bin\Microsoft.ApplicationInsights.xml
+c:\users\c\documents\visual studio 2015\Projects\实验三\实验三\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\c\documents\visual studio 2015\Projects\实验三\实验三\obj\Debug\实验三.csprojResolveAssemblyReference.cache
+c:\users\c\documents\visual studio 2015\Projects\实验三\实验三\obj\Debug\实验三.dll
+c:\users\c\documents\visual studio 2015\Projects\实验三\实验三\obj\Debug\实验三.pdb
+C:\Users\C\Documents\Visual Studio 2015\Projects\实验五\实验三\bin\ApplicationInsights.config
+C:\Users\C\Documents\Visual Studio 2015\Projects\实验五\实验三\bin\roslyn\csc.exe
+C:\Users\C\Documents\Visual Studio 2015\Projects\实验五\实验三\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\C\Documents\Visual Studio 2015\Projects\实验五\实验三\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\C\Documents\Visual Studio 2015\Projects\实验五\实验三\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\C\Documents\Visual Studio 2015\Projects\实验五\实验三\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\C\Documents\Visual Studio 2015\Projects\实验五\实验三\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\C\Documents\Visual Studio 2015\Projects\实验五\实验三\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\C\Documents\Visual Studio 2015\Projects\实验五\实验三\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\C\Documents\Visual Studio 2015\Projects\实验五\实验三\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\C\Documents\Visual Studio 2015\Projects\实验五\实验三\bin\roslyn\vbc.exe
+C:\Users\C\Documents\Visual Studio 2015\Projects\实验五\实验三\bin\roslyn\VBCSCompiler.exe
+C:\Users\C\Documents\Visual Studio 2015\Projects\实验五\实验三\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\C\Documents\Visual Studio 2015\Projects\实验五\实验三\bin\实验三.dll.config
+C:\Users\C\Documents\Visual Studio 2015\Projects\实验五\实验三\bin\实验三.dll
+C:\Users\C\Documents\Visual Studio 2015\Projects\实验五\实验三\bin\实验三.pdb
+C:\Users\C\Documents\Visual Studio 2015\Projects\实验五\实验三\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\C\Documents\Visual Studio 2015\Projects\实验五\实验三\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\C\Documents\Visual Studio 2015\Projects\实验五\实验三\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\C\Documents\Visual Studio 2015\Projects\实验五\实验三\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\C\Documents\Visual Studio 2015\Projects\实验五\实验三\bin\Microsoft.AI.Web.dll
+C:\Users\C\Documents\Visual Studio 2015\Projects\实验五\实验三\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\C\Documents\Visual Studio 2015\Projects\实验五\实验三\bin\Microsoft.ApplicationInsights.dll
+C:\Users\C\Documents\Visual Studio 2015\Projects\实验五\实验三\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\C\Documents\Visual Studio 2015\Projects\实验五\实验三\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\C\Documents\Visual Studio 2015\Projects\实验五\实验三\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\C\Documents\Visual Studio 2015\Projects\实验五\实验三\bin\Microsoft.AI.Web.xml
+C:\Users\C\Documents\Visual Studio 2015\Projects\实验五\实验三\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\C\Documents\Visual Studio 2015\Projects\实验五\实验三\bin\Microsoft.ApplicationInsights.xml
+C:\Users\C\Documents\Visual Studio 2015\Projects\实验五\实验三\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\C\Documents\Visual Studio 2015\Projects\实验五\实验三\obj\Debug\实验三.csprojResolveAssemblyReference.cache
+C:\Users\C\Documents\Visual Studio 2015\Projects\实验五\实验三\obj\Debug\实验三.dll
+C:\Users\C\Documents\Visual Studio 2015\Projects\实验五\实验三\obj\Debug\实验三.pdb
+D:\2017下学期\网络应用开发\实验五\实验五\实验三\bin\ApplicationInsights.config
+D:\2017下学期\网络应用开发\实验五\实验五\实验三\bin\roslyn\csc.exe
+D:\2017下学期\网络应用开发\实验五\实验五\实验三\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\2017下学期\网络应用开发\实验五\实验五\实验三\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\2017下学期\网络应用开发\实验五\实验五\实验三\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\2017下学期\网络应用开发\实验五\实验五\实验三\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\2017下学期\网络应用开发\实验五\实验五\实验三\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\2017下学期\网络应用开发\实验五\实验五\实验三\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\2017下学期\网络应用开发\实验五\实验五\实验三\bin\roslyn\System.Collections.Immutable.dll
+D:\2017下学期\网络应用开发\实验五\实验五\实验三\bin\roslyn\System.Reflection.Metadata.dll
+D:\2017下学期\网络应用开发\实验五\实验五\实验三\bin\roslyn\vbc.exe
+D:\2017下学期\网络应用开发\实验五\实验五\实验三\bin\roslyn\VBCSCompiler.exe
+D:\2017下学期\网络应用开发\实验五\实验五\实验三\bin\roslyn\VBCSCompiler.exe.config
+D:\2017下学期\网络应用开发\实验五\实验五\实验三\bin\实验三.dll.config
+D:\2017下学期\网络应用开发\实验五\实验五\实验三\bin\实验三.dll
+D:\2017下学期\网络应用开发\实验五\实验五\实验三\bin\实验三.pdb
+D:\2017下学期\网络应用开发\实验五\实验五\实验三\bin\Microsoft.AI.Agent.Intercept.dll
+D:\2017下学期\网络应用开发\实验五\实验五\实验三\bin\Microsoft.AI.DependencyCollector.dll
+D:\2017下学期\网络应用开发\实验五\实验五\实验三\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\2017下学期\网络应用开发\实验五\实验五\实验三\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\2017下学期\网络应用开发\实验五\实验五\实验三\bin\Microsoft.AI.Web.dll
+D:\2017下学期\网络应用开发\实验五\实验五\实验三\bin\Microsoft.AI.WindowsServer.dll
+D:\2017下学期\网络应用开发\实验五\实验五\实验三\bin\Microsoft.ApplicationInsights.dll
+D:\2017下学期\网络应用开发\实验五\实验五\实验三\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\2017下学期\网络应用开发\实验五\实验五\实验三\bin\Microsoft.AI.DependencyCollector.xml
+D:\2017下学期\网络应用开发\实验五\实验五\实验三\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\2017下学期\网络应用开发\实验五\实验五\实验三\bin\Microsoft.AI.Web.xml
+D:\2017下学期\网络应用开发\实验五\实验五\实验三\bin\Microsoft.AI.WindowsServer.xml
+D:\2017下学期\网络应用开发\实验五\实验五\实验三\bin\Microsoft.ApplicationInsights.xml
+D:\2017下学期\网络应用开发\实验五\实验五\实验三\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\2017下学期\网络应用开发\实验五\实验五\实验三\obj\Debug\实验三.csprojResolveAssemblyReference.cache
+D:\2017下学期\网络应用开发\实验五\实验五\实验三\obj\Debug\实验三.dll
+D:\2017下学期\网络应用开发\实验五\实验五\实验三\obj\Debug\实验三.pdb
+D:\2017下学期\网络应用开发\实验五\实验五\实验三\obj\Debug\Interop.jmail.dll
+D:\2017下学期\网络应用开发\实验五\实验五\实验三\obj\Debug\实验三.csproj.ResolveComReference.cache
+D:\2017下学期\网络应用开发\实验五\实验五\实验三\bin\Interop.jmail.dll

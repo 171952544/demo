@@ -1,0 +1,178 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="实验三.Site1" %>
+
+ 
+
+<!DOCTYPE html>
+
+ 
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head runat="server">
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+    <title></title>
+
+     <style type="text/css">
+
+        .auto-style1 {
+
+           font-size:20px;
+
+            padding-top:10px;
+
+           Height:30px;
+
+           Width:100px;
+
+            
+
+        }
+
+        .auto_style4{
+
+           font-size:10px;      
+
+           Height:30px;
+
+           Width:100px;
+
+            
+
+        }
+
+           
+
+         .auto-style2 {
+
+             height:  40px;
+
+         }
+
+           
+
+    </style>
+
+ 
+
+</head>
+
+<body>
+
+    <form runat="server">
+
+        <div>
+
+        <div style="float:left">
+
+        <asp:image runat="server" ImageUrl="~/image/head.png"></asp:image></div>
+
+       <div style="float:left;padding-top:13px"> <asp:Label runat="server" Text="小飞邮箱" CssClass="auto-style1" ForeColor="#0066FF"></asp:Label><br />
+
+        <asp:Label runat="server" Text="mail.xf.com" CssClass="auto-style4" ForeColor="#0066FF"></asp:Label></div>
+
+        <div style="float:left"><asp:Image runat="server" ID="userPhoto" Height="48px" Width="40px" ImageUrl="~/image/back.jpg"/></div>
+
+        <div style="float:left;padding-top:15px"> <asp:Label runat="server" id="userid" Text="a1006817478(楚门)" Font-Size="15px"></asp:Label><br/>
+
+            <asp:LinkButton runat="server" Text="个人中心" PostBackUrl="~/WebForm3.aspx" Font-Size="13px"></asp:LinkButton>
+
+        </div>
+
+         <div style="float:right;padding-top:15px"> <asp:LinkButton runat="server" Text="关于" Font-Size="13px"></asp:LinkButton> | 
+
+          <asp:LinkButton runat="server" Text="退出" Font-Size="13px" PostBackUrl="~/登陆.aspx"></asp:LinkButton>  
+
+        </div>
+
+        </div>
+
+        <div style="float:left">
+
+       <table width="960" border="0" style="padding-left:0px">
+
+      <tr>
+
+        <th width="160" height="600" align="center" valign="top" bgcolor="#6699FF" scope="col" style="background-color: #c5d8ff"><table width="150" height="280" border="0">
+
+          <tr>
+
+            <th width="150" style="text-align: left; height: 40px;" scope="col">
+
+              <asp:LinkButton ID="LinkButton1" runat="server" Style="color: blue" PostBackUrl="~/WebForm5.aspx" CausesValidation="False">写信</asp:LinkButton> </th>
+
+          </tr>
+
+          <tr>
+
+            <th width="150" height="40" style="text-align: left" scope="row">
+
+              <asp:LinkButton ID="LinkButton2" runat="server" style="color: blue" PostBackUrl="~/WebForm6.aspx" CausesValidation="False">收件箱</asp:LinkButton></th>
+
+          </tr>
+
+          <tr>
+
+            <th width="150" height="40" style="text-align: left" scope="row">
+
+              <asp:LinkButton ID="LinkButton7" runat="server" style="color: blue" PostBackUrl="~/ContactPage.aspx" CausesValidation="False">通信录</asp:LinkButton></th>
+
+          </tr>
+
+          <tr>
+
+            <th width="150" height="40" style="text-align: left" scope="row">
+
+              <asp:LinkButton ID="LinkButton3" runat="server" style="color: blue"  CausesValidation="False">发件箱</asp:LinkButton></th>
+
+          </tr>
+
+          <tr>
+
+            <th width="150" style="text-align: left" scope="row" class="auto-style2">
+
+              <asp:LinkButton ID="LinkButton4" runat="server" style="color: blue"  CausesValidation="False">草稿箱</asp:LinkButton></th>
+
+          </tr>
+
+          <tr>
+
+            <th width="150" height="40" style="text-align: left" scope="row">
+
+              <asp:LinkButton ID="LinkButton5" runat="server" style="color: blue"  CausesValidation="False">重要邮件</asp:LinkButton></th>
+
+          </tr>
+
+          <tr>
+
+            <th width="150" style="text-align: left; height: 40px;" scope="row">
+
+              <asp:LinkButton ID="LinkButton6" runat="server" style="color: blue" CausesValidation="False">垃圾箱</asp:LinkButton></th>
+
+          </tr>
+
+          
+
+        </table></th>
+
+        <th align="left" valign="top" scope="col">
+
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+
+            </asp:ContentPlaceHolder>
+
+        </th>
+
+      </tr>
+
+    </table> 
+
+        </div>    
+
+    </form>
+
+</body>
+
+</html>
+

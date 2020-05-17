@@ -1,0 +1,1 @@
+﻿INSERT INTO [dbo].[Table] ([name], [psd], [sex], [jiguan], [email], [phone], [character], [hobby], [birth]) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL)
